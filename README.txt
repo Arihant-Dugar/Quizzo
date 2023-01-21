@@ -11,3 +11,7 @@ light-weight in comparison to Activites.
 -> Also there is a data model which holds the blueprint how the each ques should look-like.
 
 -> Also implemented splash screen for better app presentation.
+
+
+
+
